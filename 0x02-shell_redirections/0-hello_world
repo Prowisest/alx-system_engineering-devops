@@ -1,3 +1,2 @@
 #!/bin/bash
-task='Hello,World'
-echo "$task"
+echo Hello,World

@@ -1,2 +1,4 @@
  #!/bin/bash
-My readme
+shell basics
+shell permission.
+

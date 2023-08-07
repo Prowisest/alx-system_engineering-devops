@@ -1,2 +1,3 @@
 #!/bin/bash
-stdin (“Hello, World”)
+task='Hello,World'
+echo "$task"

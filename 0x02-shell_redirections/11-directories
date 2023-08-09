@@ -1,2 +1,2 @@
 #!/bin/bash
-find  . -mindepth 2 -type d \( ! -name .\) ! wc -1
+tail -n 1 iacta >> iacta
